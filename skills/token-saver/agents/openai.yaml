@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Token Saver + Cache"
+  short_description: "Lean responses + max prompt cache hit rate for lower costs"
+  default_prompt: "Save tokens and maximize cache hit rate: be extremely concise, skip preambles, avoid re-reading files, patch directly without commentary. Keep prefix stable for caching."
