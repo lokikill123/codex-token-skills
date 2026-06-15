@@ -1,0 +1,3 @@
+display_name: Memory
+short_description: Persistent global memory across conversations — survives context compression
+default_prompt: Load memory and track important context
